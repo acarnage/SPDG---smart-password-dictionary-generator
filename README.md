@@ -12,5 +12,12 @@ python3.5 SPDG.py
 It will generate a dictionary in the folder of the script.
 
 ## What's left ?
+- [x] ~~First Version~~
+- [ ] Clean Code, Add Pattern
+- [ ] Make traductions
+- [ ] Your idea ?
 
+## Contribution :
+
+Please feel free to contribute, share, or ask for any reason!!
 
